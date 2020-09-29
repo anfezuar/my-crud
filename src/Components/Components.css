@@ -1,0 +1,16 @@
+.titulo {
+    background-color: gray;
+    color: white;
+    text-align: center;
+}
+.boton {
+    margin-top: 20px;
+    align-self: center;
+    align-content: center;
+    vertical-align: center;
+    align-items: center;
+}
+.formulario{
+    border: solid;
+    padding-top: 10px;
+}
